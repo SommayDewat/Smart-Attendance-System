@@ -195,7 +195,7 @@ Stores daily attendance records.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Attendance-System.git
+git clone https://github.com/SommayDewat/Smart-Attendance-System.git
 ```
 
 ---
