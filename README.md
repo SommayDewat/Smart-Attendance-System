@@ -12,8 +12,6 @@ Python • MySQL • CustomTkinter
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-green)
 
-# 🎓 Smart Attendance Management System
-
 A modern desktop-based Attendance Management System developed using **Python, CustomTkinter, and MySQL**. The application enables teachers to efficiently manage student records, mark daily attendance, analyze attendance performance, and generate professional reports in both Excel and PDF formats.
 
 Designed with a modern dark-themed user interface, the system combines database management, analytics, and reporting into a single easy-to-use desktop application.
